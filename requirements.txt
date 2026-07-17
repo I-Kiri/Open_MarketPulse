@@ -1,0 +1,9 @@
+narwhals==2.18.1
+pandas==2.3.3
+plotly==6.6.0
+prefect==3.6.24
+psycopg2-binary==2.9.11
+selenium==4.41.0
+sqlalchemy==2.0.48
+webdriver_manager==4.0.2
+python-dotenv==1.2.2
